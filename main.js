@@ -11,11 +11,11 @@ function reverseNum(num){
 reverseNum(3245);
 console.timeEnd('timer');
 
-console.time('time');
-function reverseNumber(n){
-    n = n.toString();
-    n= n.split("").reverse().join("");
-    console.log(parseInt(n));
-}
-reverseNumber(3245);
-console.timeEnd('time');
+// console.time('time');
+// function reverseNumber(n){
+//     n = n.toString();
+//     n= n.split("").reverse().join("");
+//     console.log(parseInt(n));
+// }
+// reverseNumber(3245);
+// console.timeEnd('time');
